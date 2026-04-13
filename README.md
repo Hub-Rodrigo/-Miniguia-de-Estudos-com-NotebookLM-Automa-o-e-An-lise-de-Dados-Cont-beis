@@ -1,4 +1,4 @@
-# -Miniguia-de-Estudos-com-NotebookLM-Automa-o-e-An-lise-de-Dados-Cont-beis
+# Miniguia de Estudos com NotebookLM
 ## 📌 Resumo  A análise de dados contábeis depende de três pilares:  1. Organização dos dados (ETL) 2. Modelagem correta (fato e dimensão) 3. Visualização eficiente (dashboards)  No Power BI, o modelo ideal é o modelo estrela: - Tabela Fato: contém valores (ex: despesas) - Tabelas Dimensão: contexto (data, categoria, fornecedor)
 
 # 📊 Caderno Temático com IA: Análise de Dados Contábeis
